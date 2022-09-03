@@ -24,7 +24,7 @@
                 if (array[rand] != 100000)
                 {
                     sum += array[rand];
-                    Console.Write($" {array[rand]};");
+                    Console.Write($"{array[rand]};");
                     array[rand] = 100000;
                     i++;
 
